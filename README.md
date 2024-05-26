@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wzxsamuel@163.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Highschooler with mixed hobbies, photography, aviation, formula one...
 
 <!---
